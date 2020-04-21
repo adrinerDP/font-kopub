@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'KoPub Batang';
+  font-style: normal;
+  font-weight: 300;
+  src: url(./fonts/KoPubBatang-Light.eot);
+  src: url(./fonts/KoPubBatang-Light.eot?#iefix) format('embedded-opentype'),
+       url(./fonts/KoPubBatang-Light.woff) format('woff'),
+       url(./fonts/KoPubBatang-Light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'KoPub Batang';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./fonts/KoPubBatang-Medium.eot);
+  src: url(./fonts/KoPubBatang-Medium.eot?#iefix) format('embedded-opentype'),
+       url(./fonts/KoPubBatang-Medium.woff) format('woff'),
+       url(./fonts/KoPubBatang-Medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'KoPub Batang';
+  font-style: normal;
+  font-weight: 700;
+  src: url(./fonts/KoPubBatang-Bold.eot);
+  src: url(./fonts/KoPubBatang-Bold.eot?#iefix) format('embedded-opentype'),
+       url(./fonts/KoPubBatang-Bold.woff) format('woff'),
+       url(./fonts/KoPubBatang-Bold.ttf) format('truetype');
+}
