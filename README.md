@@ -15,29 +15,29 @@
 ### KoPub 돋움, 바탕 통합
 ***HTML***
 ```
-<link rel="stylesheet" href="//cdn.jsdelivr.net/font-kopub/1.0/kopub.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/font-kopub@1.0/kopub.min.css">
 ```
 ***CSS***
 ```
-@import "//cdn.jsdelivr.net/font-kopub/1.0/kopub.css";
+@import "//cdn.jsdelivr.net/npm/font-kopub@1.0/kopub.min.css";
 ```
 
 ### KoPub 돋움
 ***HTML***
 ```
-<link rel="stylesheet" href="//cdn.jsdelivr.net/font-kopub/1.0/kopubdotum.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/font-kopub@1.0/kopubdotum.min.css">
 ```
 ***CSS***
 ```
-@import "//cdn.jsdelivr.net/font-kopub/1.0/kopubdotum.css";
+@import "//cdn.jsdelivr.net/npm/font-kopub@1.0/kopubdotum.min.css";
 ```
 
 ### KoPub 바탕
 ***HTML***
 ```
-<link rel="stylesheet" href="//cdn.jsdelivr.net/font-kopub/1.0/kopubbatang.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/font-kopub@1.0/kopubbatang.min.css">
 ```
 ***CSS***
 ```
-@import "//cdn.jsdelivr.net/font-kopub/1.0/kopubbatang.css";
+@import "//cdn.jsdelivr.net/npm/font-kopub@1.0/kopubbatang.min.css";
 ```
