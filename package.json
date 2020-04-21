@@ -1,6 +1,6 @@
 {
   "name": "font-kopub",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "한국출판인회의(KOPUS)에서 배포하는 KoPub서체 입니다.",
   "keywords": [
     "KoPub",
@@ -25,5 +25,8 @@
   "author": "adrinerDP <me@adrinerdp.co> (https://adrinerdp.co)",
   "main": "kopub.css",
   "jsdelivr": "kopub.css",
-  "unpkg": "kopub.css"
+  "unpkg": "kopub.css",
+  "publishConfig":{
+    "registry": "https://npm.pkg.github.com/@adrinerDP"
+  }
 }
