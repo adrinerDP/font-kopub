@@ -1,4 +1,4 @@
-## KoPub Web Fonts [![](https://data.jsdelivr.com/v1/package/npm/font-kopub/badge)](https://www.jsdelivr.com/package/npm/font-kopub)
+## KoPub Web Fonts [![](https://data.jsdelivr.com/v1/package/npm/font-kopub/badge)](https://www.jsdelivr.com/package/npm/font-kopub) [![npm version](https://badge.fury.io/js/font-kopub.svg)](https://badge.fury.io/js/font-kopub)
 
 한국출판인회의에서 제공하고 있는 KoPub 돋움과 바탕체의 웹폰트입니다.
 
@@ -8,18 +8,18 @@
 `400` **medium**<br>
 `700` **bold**
 ### Font Families
-`'KoPub Dotum'`, `'KoPub Batang'`
+`KoPub Dotum`, `KoPub Batang`
 
 ---
 
 ### KoPub 돋움, 바탕 통합
 ***HTML***
 ```
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/font-kopub@1.0/kopub.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/font-kopub@1.0">
 ```
 ***CSS***
 ```
-@import "//cdn.jsdelivr.net/npm/font-kopub@1.0/kopub.min.css";
+@import "//cdn.jsdelivr.net/npm/font-kopub@1.0";
 ```
 
 ### KoPub 돋움
